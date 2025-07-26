@@ -1,10 +1,10 @@
 {
   "name": "imhotep-api",
   "version": "1.0.0",
-  "description": "API pública do agente Imhotep – O Engenheiro IA",
-  "main": "server.js",
+  "description": "API pública para o agente Imhotep – O Engenheiro IA",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
